@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: inherit;
+  /* background-image: url("/miami-bg.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat; */
+}
